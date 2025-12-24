@@ -1,0 +1,29 @@
+# Jupyter
+#.ipynb_checkpoints/
+
+# Python
+#__pycache__/
+#*.pyc
+
+# OS
+#.DS_Store
+
+# Ignore large datasets
+#data/raw/
+#data/processed/
+#*.csv'''
+
+# Data files
+Data/
+*.csv
+*.xlsx
+*.zip
+*.pkl
+*.h5
+
+# Python
+__pycache__/
+.env
+
+# IDE
+.vscode/
